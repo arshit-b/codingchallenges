@@ -1,0 +1,9 @@
+{
+  "name": "codingchallenges",
+  "version": "1.0.0",
+  "description": "codingchallenge.fyi solutions",
+  "main": "index.js",
+  "repository": "git@github.com-arshit:arshit-b/codingchallenges.git",
+  "author": "arshit-b <arshitbabariya301@gmail.com>",
+  "license": "MIT"
+}
