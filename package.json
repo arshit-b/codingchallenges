@@ -6,6 +6,9 @@
   "repository": "git@github.com-arshit:arshit-b/codingchallenges.git",
   "author": "arshit-b <arshitbabariya301@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "wc": "npx ts-node wc"
+  },
   "devDependencies": {
     "@types/node": "^20.11.20",
     "typescript": "^5.3.3"
